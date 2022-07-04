@@ -3,7 +3,7 @@
 //or copy the codes/script,
 //pls give credit
 //no credit? i will take action immediately
-//© 2022 Xeon Bot Inc. Cheems Bot MD
+//© 2022 VinnzXD. Xavier-MD
 //Thank you to Lord Buddha, Family and Myself
 //════════════════════════════//
 //recode kar ke youtube pe upload kar rhe ya
@@ -41,24 +41,24 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['79398092845'] //ur owner number
+global.owner = ['6283185574174'] //ur owner number
 global.ownername = "Couse"
 global.ytname = "Nothing" //ur yt chanel name
 global.socialm = "GitHub: Couse" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bombdy
-global.botname = "M a r i n - M D" //ur bot name
+global.botname = "X a v i e r - M D" //ur bot name
 global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
+global.packname = "Xavier Botz Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "🦄Dream Guy Couse"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['79398092845'] //ur owner tag
-global.ownernummenu = ['79398092845'] //ur owner number in menu and all
-global.watermark = "M a r i n - Bot Inc." //ur watermark
-global.botscript = "https://github.com/DGXeon"
+global.ownertag = ['6283185574174'] //ur owner tag
+global.ownernummenu = ['6283185574174'] //ur owner number in menu and all
+global.watermark = "X a v i e r - Botz Inc." //ur watermark
+global.botscript = "https://github.com/Skymmoon"
 global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
 global.linkz2 = "https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd"
 
