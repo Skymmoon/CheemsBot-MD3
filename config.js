@@ -42,9 +42,9 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['6283185574174'] //ur owner number
-global.ownername = "Couse"
+global.ownername = "VinnzXD"
 global.ytname = "Nothing" //ur yt chanel name
-global.socialm = "GitHub: Couse" //ur github or insta name
+global.socialm = "GitHub: VinnzXD" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bombdy
@@ -52,7 +52,7 @@ global.botname = "X a v i e r - M D" //ur bot name
 global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "Xavier Botz Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "🦄Dream Guy Couse"
+global.author = "🦄Dream Guy VinnzXD"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
 global.ownertag = ['6283185574174'] //ur owner tag
@@ -132,7 +132,7 @@ global.APIs = {
 
 // key
 global.APIKeys = {
-	'https://zenzapis.xyz': 'cousesemtur',
+	'https://zenzapis.xyz': 'VinnzXD',
 }
 //menu logo maker
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
