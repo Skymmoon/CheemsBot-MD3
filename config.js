@@ -3,7 +3,7 @@
 //or copy the codes/script,
 //pls give credit
 //no credit? i will take action immediately
-//© 2022 VinnzXD. Xavier-MD
+//© 2022 Skyxmoon. Xavier-MD
 //Thank you to Lord Buddha, Family and Myself
 //════════════════════════════//
 //recode kar ke youtube pe upload kar rhe ya
@@ -41,10 +41,10 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6283185574174'] //ur owner number
-global.ownername = "VinnzXD"
+global.owner = ['6283862006229'] //ur owner number
+global.ownername = "Skyxmoon"
 global.ytname = "Nothing" //ur yt chanel name
-global.socialm = "GitHub: VinnzXD" //ur github or insta name
+global.socialm = "GitHub: Skyxmoon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bombdy
@@ -52,15 +52,15 @@ global.botname = "X a v i e r - M D" //ur bot name
 global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "Xavier Botz Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "🦄Dream Guy VinnzXD"
+global.author = "🦄Dream Guy Skyxmoon"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['6283185574174'] //ur owner tag
-global.ownernummenu = ['6283185574174'] //ur owner number in menu and all
+global.ownertag = ['6283862006229'] //ur owner tag
+global.ownernummenu = ['6283862006229'] //ur owner number in menu and all
 global.watermark = "X a v i e r - Botz Inc." //ur watermark
 global.botscript = "https://github.com/Skymmoon"
-global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
-global.linkz2 = "https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd"
+global.linkz1 = "https://chat.whatsapp.com/GLj5hBI2NQm5ExcMGaa4Mu"
+global.linkz2 = "https://chat.whatsapp.com/GLj5hBI2NQm5ExcMGaa4Mu"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -132,7 +132,7 @@ global.APIs = {
 
 // key
 global.APIKeys = {
-	'https://zenzapis.xyz': 'VinnzXD',
+	'https://zenzapis.xyz': 'Skyxmoon',
 }
 //menu logo maker
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
